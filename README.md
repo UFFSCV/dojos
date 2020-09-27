@@ -1,8 +1,7 @@
+# Dojos UFFSCV
+Este repositório contém os códigos iniciais e arquivos para a realização dos _Codings Dojos_ do grupo de estudos de Visão Computacional (UFFSCV) da Universidade Federal da Fronteira Sul.
 
-# DOJO UFFSCV
-
-Este repositório contém os códigos iniciais e arquivos para a realização dos Codings Dojos do grupo de estudos de Visão Computacional (UFFSCV) da Universidade Federal da Fronteira Sul.
-
+## FAQs
 - __O que seria um Coding Dojo?__
 Coding Dojos é uma reunião de programadores que se juntam para aperfeiçoar suas habilidades com programação.
 
@@ -12,5 +11,5 @@ Um Dojo pode funcionar de várias formas, no caso do UFFSCV, é escolhido um tem
 - __Porque os códigos estão incompletos ou só com comentários?__
 No caso do Dojo do UFFSCV, são mantidos no repositório os códigos crus, com o mínimo necessário de acordo com o idealizador do tema, a serem desenvolvidos durante encontro do UFFSCV ou caso alguém queira estudar as técnicas e aplicações de Visão Computacional resolvendo e completando os códigos. A versão completa não será mantida aqui, pois a proposta é que as pessoas possam utilizar esses códigos crus para estudos das técnicas e aplicações de Visão Computacional.
 
-Fontes:
+## Fontes
 Muitos de nossos códigos são baseados inspirados pelo site [Learn Open CV](https://www.learnopencv.com)
